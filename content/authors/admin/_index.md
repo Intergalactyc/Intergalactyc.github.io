@@ -52,8 +52,8 @@ interests:
 education:
   - area: BS Mathematics
     institution: Texas Tech University
-    date_start: 2022-08
-    date_end: 2026-05
+    date_start: 2022-08-25
+    date_end: 2026-05-16
     summary: |
       GPA: 3.97/4.0
 
@@ -64,8 +64,8 @@ work:
     company_name: Battelle Memorial Institute
     company_url: 'https://www.battelle.org/
     company_logo: ''
-    date_start: 2025-05
-    date_end: 2025-08
+    date_start: 2025-05-19
+    date_end: 2025-08-01
     summary: |
 
 # Skills
