@@ -1,4 +1,4 @@
-# Source for my website, intergalactyc.github.io ([intergalactyc.space](http://intergalactyc.space))
+# Source for my website, intergalactyc.github.io ([elliottjwalker.net](http://intergalactyc.space))
 
 Work in progress!
 
