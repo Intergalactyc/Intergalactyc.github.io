@@ -36,7 +36,7 @@ sections:
       text: |-
         Under construction :)
 
-        Please reach out for more information1
+        Please reach out (ellwalke@ttu.edu) for more information!
     design:
       columns: '1'
   - block: collection
