@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🌌
+  icon: 🌎
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Mathematics Student;  Aspiring Astrophysicist
+role: Mathematics Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -44,10 +44,10 @@ profiles:
     url: https://orcid.org/0009-0001-6791-489X
 
 interests:
-  - Computational astrophysics
-  - Star-planet interactions
-  - Multi- and many-body dynamics
-  - Hydrodynamic modeling of planetary and stellar atmospheres and accretion disks
+  - Boundary-layer meteorology
+  - Surface layer wind flow
+  - Wind speed extrapolation
+  - Wind energy
 
 education:
   - area: BS Mathematics
